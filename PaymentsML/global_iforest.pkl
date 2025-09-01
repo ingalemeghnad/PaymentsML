@@ -1,2 +1,0 @@
-# This file is a serialized model file for the global isolation forest model used for anomaly detection in payment transactions. 
-# It is intentionally left blank as it contains binary data.
