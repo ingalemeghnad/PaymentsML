@@ -34,6 +34,4 @@ This project implements a Payment Anomaly Detection system using machine learnin
 - Upload a CSV file containing payment transactions through the Streamlit interface.
 - The application will process the data, perform anomaly detection, and display the results, including flagged transactions and visualizations.
 
-## License
 
-This project is licensed under the MIT License.
